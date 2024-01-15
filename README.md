@@ -1,2 +1,2 @@
 # multirut
-Project with Joaquín Urrea and Nicolás Valle
+Project with Joaquín Urria and Nicolás Valle
